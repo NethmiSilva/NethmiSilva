@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethmi</h1>
 <h3 align="center">A passionate and dedicated Software Engineer with a strong foundation in both academic excellence and practical project experience.</h3>
 
-- 👨‍💻 All of my projects are available at [https://nethmisilva.github.io/Portfolio/#section1](https://nethmisilva.github.io/Portfolio/#section1)
+- 👨‍💻 All of my projects are available at [https://nethmisilva.github.io/Portfolio](https://nethmisilva.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
